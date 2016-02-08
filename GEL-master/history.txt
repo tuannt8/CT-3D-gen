@@ -1,0 +1,576 @@
+help
+load_history
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma
+display.gamma 3
+load_mesh data/bunnygtest.obj
+help
+curvature.mean
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.mean
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+load_mesh data/bunny.obj
+curvature.gaussian
+help
+info
+save_history
+load_mesh data/bunnygtest.obj
+load_mesh data/bunnygtest.obj
+info
+load_mesh data/bunny.obj
+info
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 2
+display.gamma 0.1
+display.gamma 10
+info
+curvature.gaussian
+q
+load_mesh data/bull-param.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 10
+load_mesh data/bull-param.obj
+curvature.gaussian
+load_mesh data/bunny.obj
+curvature.gaussian
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+curvature.mean
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+curvature.mean
+load_mesh data/bunny.obj
+curvature.mean
+load_mesh data/bunnygtest.obj
+curvature.mean
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 10
+load_mesh data/bunnygtest.obj
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 10
+display.gamma 15
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 15
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+curvature.mean
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 19
+display.gamma 10
+display.gamma 5
+display.gamma 2
+display.gamma 3
+display.gamma 4
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 4
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+info
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 4
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 4
+load_mesh data/bunnygtest.obj
+load_mesh data/bunny.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+display.gamma 4
+display.gamma 10
+load_mesh data/bunny.obj
+curvature.gaussian
+clc
+clear
+curvature.gaussian
+load_mesh data/bunnygtest.obj
+curvature.gaussian
+display.render_mode sca
+display.scalar_field.color_sign 1
+load_mesh data/bunnygtest.obj
+help
+smooth.mean_curvature 0.1
+load_mesh data/tetra.obj
+smooth.mean_curvature 0.1
+display.render_mode sca
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+info
+info
+info
+smooth.mean_curvature 0.1
+info
+load_mesh data/bunnygtest.obj
+info
+smooth.mean_curvature 0
+info
+load_mesh data/tetra.obj
+smooth.mean_curvature 0
+load_mesh data/bunnygtest.obj
+smooth.mean_curvature 0
+smooth.mean_curvature 0
+smooth.mean_curvature 0
+smooth.mean_curvature 0
+smooth.mean_curvature 0
+smooth.mean_curvature 0
+info
+load_mesh data/tetra.obj
+smooth.mean_curvature 0
+info
+smooth.mean_curvature 0
+info
+load_mesh data/tetra.obj
+smooth.mean_curvature 0
+info
+load_mesh data/tetra.obj
+info
+smooth.mean_curvature 0
+info
+load_mesh data/tetra.obj
+smooth.mean_curvature 0
+load data/cube.obj
+load_mesh data/cube.obj
+smooth.mean_curvature 0
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+info
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.5
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+smooth.mean_curvature 0.9
+info
+load_mesh bunnygtest.obj
+load_mesh data/bunnygtest.obj
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+help
+load_mesh data/thingy.obj
+load_mesh data/head.obj
+load_mesh data/bunnygtest.obj
+smooth.mean_curvature 0.9
+smooth.mean_curvature 1
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.1
+load_mesh data/bunnygtest.obj
+smooth.mean_curvature 1
+smooth.mean_curvature 0.1
+smooth.mean_curvature 0.5
+load_mesh data/bunnygtest.obj
+help
+noise.pertube_vertices 
+noise.perturb_vertices 
+smooth.mean_curvature 0.5
+smooth.mean_curvature 2
+smooth.mean_curvature 10
+smooth.mean_curvature 100
+smooth.mean_curvature 100
+smooth.mean_curvature 100
+smooth.mean_curvature 100
+smooth.mean_curvature 100
+smooth.mean_curvature 1000
+smooth.mean_curvature 10000
+smooth.mean_curvature 10000
+load_mesh data/human-head.obj
+load_mesh data/human-head.obj
+parametrize.lscm]
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+info
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+info
+load_mesh data/human-head.obj\
+load_mesh data/human-head.obj
+info
+parametrize.lscm
+info
+display.render_mode che
+load_mesh data/tetra.obj
+parametrize.lscm
+load_mesh data/tetra.obj
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+\
+display.refit_trackball
+load_mesh data/bunnygtest.obj
+noise.perturb_vertices 0.4
+smooth.mean_curvature 10000
+load_mesh human-head.obj
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+clear
+load_mesh data/human-head.obj
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+load_mesh data/human-head.obj
+parametrize.iterative 
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+help
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+parametrize.flatten
+display.refit_trackball
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+load_mesh data/human-head.obj
+parametrize.lscm
+display.render_mode che
+help
+help
+help
+load_mesh data/human-head.obj
+load_mesh cube.obj
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+load_mesh data/cube.obj
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+load_mesh data/cat_head_clean.obj
+load_mesh data/cat_head.clean.obj
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+load_mesh dolphins.obj
+load_mesh data/dolphins.obj
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+load_mesh data/human-head.obj
+my.doo_sabin 
+my.doo_sabin 
+my.doo_sabin 
+load_mesh 
+load_mesh data/cat_head.clean.obj
+my.doo_sabin 
+dual
+dual
+dual
+dual
+dual
+load_mesh data/cat_head.clean.obj
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+dual
+help
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+icp
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+icp
+help
+q
+load_mesh data/icp/mesh1.x3d
+icp
+load_mesh data/icp/mesh2.x3d
+icp
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+align 1 2
+icp 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+align 1 2
+icp 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+align 1 2
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+icp 1 2
+align 1 2
+align 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+load_mesh data/icp/bunny_case1_dsamp.vtk
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp 1 2
+align 1 2
+align 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp
+icp
+align 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+icp
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+icp
+align 1 2
+icp
+icp
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+align 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+icp 1 2
+load_mesh data/icp/mesh2.x3d
+load_mesh data/icp/mesh1.x3d
+icp 1 2
+align 1 2
+load_mesh data/icp/mesh1.x3d
+load_mesh data/icp/mesh2.x3d
+icp 1 2
+align 1 2
+load_mesh data/square.obj
+load_mesh square.obj
+load_mesh square.obj
+load_mesh data/square.obj
+help
+cross_section.construct 
+load_mesh data/square.obj
+cross_section.construct 
+load_mesh data/square.obj
+cross_section.construct 
+load_mesh data/square.obj
+cross_section.construct 
+load_mesh data/square.obj
+cross_section.construct 
+load_mesh data/square.obj
+cross_section.construct 
+load_mesh data/sphere.obj
+cross_section.construct 
+load_mesh data/sphere_hole.obj
+cross_section.construct 
+load_mesh data/sphere_hole_drill.obj
+load_mesh data/sphere_hole.obj
+load_mesh data/sphere_hole_drill.obj
+cross_section.construct 
+load_mesh data/sphere_hole_drill.obj
+cross_section.construct 
